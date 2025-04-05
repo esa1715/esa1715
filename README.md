@@ -1,9 +1,9 @@
-## Prazer! Eu me chamo esa1...ou melhor, Erik. 
+### Prazer! Eu me chamo esa1...ou melhor, Erik. 
 
 - 🔭 Atualmente estou procurando por oportunidades na área de Front-End
 - 🌱 Aprimorando meus conhecimentos em JavaScript e React
 
-## 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -82,7 +82,7 @@
 <br/>
 <br/>
 
-## 📊 Estatísticas
+### 📊 Estatísticas
 
 <p>
   <img 
