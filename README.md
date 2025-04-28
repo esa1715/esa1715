@@ -96,12 +96,8 @@ Olá! Eu me chamo esa1...ou melhor, Erik.
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=esa1715&show_icons=true&theme=blue_navy&include_all_commits=true&locale=pt-br" 
   />
-    
-<br/>
-
 <img 
     align="left" 
     alt="GitHub Stats" 
