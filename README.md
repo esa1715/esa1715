@@ -1,9 +1,9 @@
-Olá! Eu me chamo esa1...ou melhor, Erik. 
+# Olá! Eu me chamo esa1...ou melhor, Erik. 
 
 - 🔭 Atualmente estou procurando por oportunidades na área de Front-End
 - 🌱 Aprimorando meus conhecimentos em JavaScript e React
 
-🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -88,7 +88,7 @@ Olá! Eu me chamo esa1...ou melhor, Erik.
 <br/>
 <br/>
 
-📊 Estatísticas
+## 📊 Estatísticas
 
 <p>
   <img 
