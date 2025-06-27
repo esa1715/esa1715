@@ -91,8 +91,7 @@
 ## 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
+  <img
     alt="GitHub Stats" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api?username=esa1715&show_icons=true&theme=blue_navy&include_all_commits=true&locale=pt-br" 
